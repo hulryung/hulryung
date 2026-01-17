@@ -59,29 +59,6 @@ We deliver full-stack solutions from hardware design (KiCad) to firmware (C/Zeph
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🚀 Featured Projects
-
-### KiCad & EDA Tools
-| Project | Description |
-|---------|-------------|
-| [kicad-lcsc-manager](https://github.com/hulryung/kicad-lcsc-manager) | KiCad plugin for importing LCSC/EasyEDA components with symbols, footprints, and 3D models |
-| [easyeda2kicad-web](https://github.com/hulryung/easyeda2kicad-web) | Web-based EasyEDA to KiCad converter with real-time 2D/3D visualization |
-| [bom-extender](https://github.com/hulryung/bom-extender) | BOM extension tool with automatic LCSC component lookup |
-| [JLCPCB-BOM-datasheet-downloader](https://github.com/hulryung/JLCPCB-BOM-datasheet-downloader) | Bulk datasheet downloader for JLCPCB BOMs |
-
-### Embedded Systems
-| Project | Description |
-|---------|-------------|
-| [candleLight_fw](https://github.com/hulryung/candleLight_fw) | gs_usb compatible firmware for USB-CAN adapters |
-| [cortex-debug](https://github.com/hulryung/cortex-debug) | VS Code extension for Cortex-M debugging |
-| [stm32build](https://github.com/hulryung/stm32build) | Dockerized STM32 build environment |
-
-### DevTools
-| Project | Description |
-|---------|-------------|
-| [ubuntu-dotfile-plus](https://github.com/hulryung/ubuntu-dotfile-plus) | Turnkey bootstrap kit for fresh Ubuntu dev environments |
-| [synth-shell](https://github.com/hulryung/synth-shell) | Terminal enhancement scripts |
-
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-hulryung@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hulryung@gmail.com)

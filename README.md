@@ -10,6 +10,19 @@ I specialize in bridging the gap between **PCB design** and **software tooling**
 - **Embedded Systems** — STM32, Cortex-M firmware, CAN bus, Battery Management Systems
 - **Web Applications** — Modern frontends (Svelte, TypeScript) for hardware-related tools
 
+## 🏢 HUCONN
+
+I manage [**HUCONN**](https://github.com/huconn), an embedded systems and IoT solutions company. Our work spans:
+
+| Domain | Focus |
+|--------|-------|
+| **Battery Management** | BMS firmware (Zephyr RTOS), monitoring platforms, cell simulators |
+| **Automotive & Mobility** | Vehicle IVI systems, CAN communication, electric cart solutions |
+| **IoT Solutions** | Smart sensor systems, industrial monitoring, railway applications |
+| **TOPST Platform** | Telechips-based embedded boards, Linux kernel porting, education kits |
+
+We deliver full-stack solutions from hardware design (KiCad) to firmware (C/Zephyr) to web dashboards (Vue/Svelte).
+
 ## 📊 GitHub Stats
 
 <p align="center">

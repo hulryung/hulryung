@@ -1,10 +1,76 @@
-- 👋 Hi, I’m @hulryung
-- 👀 I’m interested in CSE, programming and company management
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on develop 
-- 📫 How to reach me: hulryung@gmail.com
+# Hi, I'm Daekeun Kang 👋
 
-<!---
-hulryung/hulryung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **hardware-software bridge builder** based in Korea. I design circuits, write firmware, and build web tools that make electronics development smoother. Currently working at **HUCONN**, where I focus on embedded systems and IoT solutions.
+
+## 🔧 What I Do
+
+I specialize in bridging the gap between **PCB design** and **software tooling**. Most of my open source work revolves around:
+
+- **KiCad/EDA Toolchain** — Building tools to streamline component management and design workflows
+- **Embedded Systems** — STM32, Cortex-M firmware, CAN bus, Battery Management Systems
+- **Web Applications** — Modern frontends (Svelte, TypeScript) for hardware-related tools
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hulryung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulryung&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hulryung&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+**Frontend**
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Embedded & Hardware**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## 🚀 Featured Projects
+
+### KiCad & EDA Tools
+| Project | Description |
+|---------|-------------|
+| [kicad-lcsc-manager](https://github.com/hulryung/kicad-lcsc-manager) | KiCad plugin for importing LCSC/EasyEDA components with symbols, footprints, and 3D models |
+| [easyeda2kicad-web](https://github.com/hulryung/easyeda2kicad-web) | Web-based EasyEDA to KiCad converter with real-time 2D/3D visualization |
+| [bom-extender](https://github.com/hulryung/bom-extender) | BOM extension tool with automatic LCSC component lookup |
+| [JLCPCB-BOM-datasheet-downloader](https://github.com/hulryung/JLCPCB-BOM-datasheet-downloader) | Bulk datasheet downloader for JLCPCB BOMs |
+
+### Embedded Systems
+| Project | Description |
+|---------|-------------|
+| [candleLight_fw](https://github.com/hulryung/candleLight_fw) | gs_usb compatible firmware for USB-CAN adapters |
+| [cortex-debug](https://github.com/hulryung/cortex-debug) | VS Code extension for Cortex-M debugging |
+| [stm32build](https://github.com/hulryung/stm32build) | Dockerized STM32 build environment |
+
+### DevTools
+| Project | Description |
+|---------|-------------|
+| [ubuntu-dotfile-plus](https://github.com/hulryung/ubuntu-dotfile-plus) | Turnkey bootstrap kit for fresh Ubuntu dev environments |
+| [synth-shell](https://github.com/hulryung/synth-shell) | Terminal enhancement scripts |
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-hulryung@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hulryung@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hulryung-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hulryung)
+
+---
+
+*I build the tools that make hardware development less painful.*

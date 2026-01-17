@@ -34,14 +34,6 @@ Beyond my day-to-day work, I'm deeply interested in:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hulryung&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hulryung&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hulryung&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 

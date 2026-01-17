@@ -13,12 +13,15 @@ I specialize in bridging the gap between **PCB design** and **software tooling**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hulryung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hulryung&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hulryung&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hulryung&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hulryung&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ## 🛠️ Tech Stack

@@ -23,6 +23,14 @@ I manage [**HUCONN**](https://github.com/huconn), an embedded systems and IoT so
 
 We deliver full-stack solutions from hardware design (KiCad) to firmware (C/Zephyr) to web dashboards (Vue/Svelte).
 
+## 💡 Personal Interests
+
+Beyond my day-to-day work, I'm deeply interested in:
+
+- **Embedded Systems** — Low-level programming and hardware-software interaction
+- **Computer Architecture & Systems** — How processors, memory, and systems work under the hood
+- **FPGA Design** — Recently exploring hardware description languages and custom digital logic design
+
 ## 📊 GitHub Stats
 
 <p align="center">

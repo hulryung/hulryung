@@ -56,6 +56,7 @@ Beyond my day-to-day work, I'm deeply interested in:
 **Embedded & Hardware**
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-FF6600?style=flat-square&logo=xilinx&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
